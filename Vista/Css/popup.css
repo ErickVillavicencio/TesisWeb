@@ -1,0 +1,30 @@
+
+
+#popupBody{
+
+    width: 50%;
+    padding: 2%;
+
+    border-radius: 15px;
+box-shadow: 0 0 5px #CCC;
+
+background: #FFF;
+position: relative;
+margin: 20% auto;
+
+transition: all 5s ease-in-out;
+
+}
+
+#cerrar{
+    position: absolute;
+top: 20px;
+right: 30px;
+
+font-size: 30px;
+font-weight: bold;
+text-decoration: none;
+color: #F00;
+
+}
+

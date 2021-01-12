@@ -1,0 +1,30 @@
+.contenedorItinerario{
+
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    color: white;
+}
+
+.itinerario{
+    background-color: #1F2739;    
+    
+}
+
+.informativo{
+    border-color: #1F2739;
+    color: rgb(209, 209, 214);
+    background-color: #1F2739;    
+    
+}
+
+.fila{
+    border-color: #283249;
+    color: rgb(209, 209, 214);
+    background-color:#283249;    
+    
+}
+
+.espacio{
+    height:10px;
+}

@@ -1,0 +1,62 @@
+#sobreMapa { 
+    width: 100%;
+  }
+  
+  #map { 
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+      width: 90%;
+      height: 700px;
+      box-shadow: 5px 5px 5px #888;
+ 
+    justify-content: center;
+    align-items: center;
+   }
+  
+   .imgRedonda{
+    width:150px;
+    height:150px;
+    border-radius:150px;
+   }
+  
+   .contenedorImagen{
+     text-align: center;
+  
+   }
+   .titulo{
+    text-align: center;
+  }
+  
+  .tarjeta{
+    background-color: #1F2739;
+    font-size:12px;
+    color: white;
+    
+  
+  }
+  .tabla{
+    width: 100%;
+    font-size:10px;
+    border-collapse: separate;
+    border-spacing: 20px 5px;
+  
+  }
+  .contenedor{
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+  .boton{
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
+  /* me permite volver circulares a las imagenes en el mapa*/
+  .image-icon img {
+    height: 80px !important;
+    width: 80px !important;
+    border-radius: 50%;
+    border: solid;
+    border-color: green;
+  }

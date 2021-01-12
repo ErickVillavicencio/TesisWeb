@@ -1,0 +1,32 @@
+.paginator ul {
+    padding: 15px;
+    list-style: none;
+    margin-top: 15px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.paginator a, .pageSelected{
+    color: #82888d;
+    border: 1px solid;
+    padding: 5px;
+    display: inline-block;
+    font-size: 14px;
+    text-align: center;
+    width: 35px;
+}
+
+.paginator a:hover{
+    background: #ddd;
+}
+
+.pageSelected{
+    color:#FFF ;
+    background: #428bca;
+    border:  1px solid #128BCA;
+}
+
+.paginator{
+    margin-bottom: 50px;
+    margin-right: 5%;
+}
